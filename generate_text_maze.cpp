@@ -4,7 +4,7 @@
 
 int main()
 {
-    const size_t width = 20;
+    const size_t width = 40;
     const size_t height = 15;
 
     Maze maze(width, height);
