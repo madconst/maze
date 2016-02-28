@@ -44,4 +44,4 @@ $ ./generate_svg_maze > maze.html
 After that open the file with a web browser. It should look like this:
 
 ![Maze Example]
-(https://github.com/madconst/maze_example.png)
+(https://raw.githubusercontent.com/madconst/maze/master/maze_example.png)
