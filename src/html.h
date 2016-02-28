@@ -1,5 +1,5 @@
-#ifndef _SVG_H
-#define _SVG_H
+#ifndef _HTML_H
+#define _HTML_H
 
 #include <vector>
 #include <list>
@@ -51,4 +51,4 @@ namespace Html
     std::ostream& operator<<(std::ostream& out, const HtmlNode& node);
 }
 
-#endif // _SVG_H
+#endif // _HTML_H

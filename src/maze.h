@@ -19,7 +19,7 @@ private:
     bool is_visited(size_t x, size_t y) const;
     void build(size_t x, size_t y);
 
-    const size_t num_of_rows, num_of_columns;
+    const size_t num_of_columns, num_of_rows;
     std::vector<unsigned char> cell_walls; // 2 walls per cell: top and left
     std::vector<unsigned char> cell_status; // 1 bit per cell: 0 - pristine, 1 - visited
     std::default_random_engine rengine;

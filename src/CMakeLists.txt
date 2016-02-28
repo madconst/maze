@@ -1,6 +1,7 @@
 cmake_minimum_required(VERSION 3.2)
 
 add_definitions("-std=c++11")
+add_definitions("-Wall")
 
 add_executable (generate_text_maze 
 	generate_text_maze.cpp 
