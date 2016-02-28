@@ -1,5 +1,5 @@
 #include "svg_view.h"
-#include "svg.h"
+#include "html.h"
 
 void SvgView::render(const Maze& maze) const
 {

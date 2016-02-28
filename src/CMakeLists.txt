@@ -12,5 +12,5 @@ add_executable (generate_svg_maze
 	generate_svg_maze.cpp 
 	maze.cpp 
 	svg_view.cpp
-	svg.cpp
+	html.cpp
 )
