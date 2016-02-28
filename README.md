@@ -10,7 +10,7 @@ This is a simple maze generator that uses randomized depth-first search algorith
 ```
 git clone https://github.com/madconst/maze.git
 mkdir build && cd $_
-cmake ..
+cmake ../src
 make
 ```
 
