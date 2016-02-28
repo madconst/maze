@@ -1,11 +1,11 @@
-= The Maze =
+# The Maze #
 
 This is a simple maze generator that uses randomized depth-first search algorithm. The result is visualized in two ways:
 
 * pseudographics, which can be shown right in the console (utf8)
 * scalable vector graphics (svg), which can be opened by any up-to-date Web browser
 
-== Build ==
+## Build ##
 
 ```
 mkdir build && cd $_
@@ -13,7 +13,7 @@ cmake ..
 make
 ```
 
-== Run ==
+## Run ##
 
 In Linux:
 
